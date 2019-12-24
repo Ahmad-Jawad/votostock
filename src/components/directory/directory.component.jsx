@@ -28,7 +28,7 @@ class Directory extends React.Component{
                 },
                 {
                     title : 'DYI',
-                    imageUrl: 'https://logonoob.com/img/aj01.jpg',
+                    imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
                     size : 'large',
                     id: 4,
                     linkUrl: ''
